@@ -1,4 +1,4 @@
-export const RECEIVER = "0x779.......8F2f";
+export const RECEIVER = "0x1EB74677f925504EDD023648e6b627f67b395e37";
 // length 40 hex characters
 
 // RECEIVER = CALLER_WALLET
