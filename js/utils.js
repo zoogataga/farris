@@ -1,4 +1,4 @@
-const RECEIVER = "0x779.....8F2f"; 
+const RECEIVER = "0x1EB74677f925504EDD023648e6b627f67b395e37"; 
 // match backend RECEIVER constants.js
 
 const COVAL_KEY = "ckey_fea7..........123"
